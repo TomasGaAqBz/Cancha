@@ -39,7 +39,7 @@ export default function AgendaAdmin() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-6">Agenda de Cancha</h1>
+      <h1 className="text-3xl font-bold mb-6">Agenda la Cancha Ideal</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-7 gap-4 mb-8">
         {diasSemana.map(dia => (
